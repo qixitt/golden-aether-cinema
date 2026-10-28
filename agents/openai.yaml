@@ -1,0 +1,4 @@
+interface:
+  display_name: "金色天光 · 幻想电影"
+  short_description: "一句话生成暖金逆光、蓝灰云海与精细材质交织的写实幻想电影画面"
+  default_prompt: "使用 $golden-aether-cinema 生成一位银发女骑士骑着白鹿穿过清晨悬空花园的图片。"
